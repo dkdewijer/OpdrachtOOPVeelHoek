@@ -43,7 +43,6 @@ public void display(){
  * @param dx
  * @param dy 
  */
-
 public void verschuif(int dx, int dy){
     x += dx;
     y += dy;
